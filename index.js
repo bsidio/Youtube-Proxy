@@ -160,7 +160,7 @@ function fetch_target_id(req, res) {
       writer.on('finish', function() {
         res.status(200).json({
           state: 'success',
-          link: '/site/' + id + '.mp4',
+          link: '/site/' + id + '.ddd',
           info: {
             id: id,
             title: info.title
