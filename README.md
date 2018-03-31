@@ -1,6 +1,3 @@
-# dmhacker-youtube
-
-This contains a gateway for my [alexa-youtube-skill](https://github.com/dmhacker/alexa-youtube-skill) as well as a web-based, Youtube-specific proxy.
 
 ## Prerequisites
 
